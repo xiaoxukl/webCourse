@@ -11,12 +11,12 @@ h1 {
 p {
   color: maroon;
 }
-body{
+
+	body{
 color: royalblue;
 	color: rgb(220, 65, 225);
 	color: #e141becc;
 	color: rgba(39,177,182,0.8);
 	color: #2775b6CC;
-  background-color: rgb(25%, 41%, 88%);
-	background-color: #00ffff;
+	background-color: #00ff00;
 }
