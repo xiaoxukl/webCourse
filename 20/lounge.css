@@ -12,6 +12,7 @@ h1 {
 
 .elixirs {
 	line-height: 1rem;
+  float: right;
 }
 .guarantee {
 	background: #007e7e url(images/background.gif) no-repeat top left ;
@@ -46,8 +47,3 @@ h1 {
 	background: #f88396;
 	color: #0d5353;
 }
-<style>
-	h1, h2 {
-		font-weight: 400;
-	}
-	</style>
