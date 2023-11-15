@@ -9,11 +9,6 @@ h1, h2 {
 h1 {
 	font-size: 1.5em;
 }
-
-.elixirs {
-	line-height: 1rem;
-  float: right;
-}
 .guarantee {
 	background: #007e7e url(images/background.gif) no-repeat top left ;
 	background-position: top left;
@@ -36,6 +31,8 @@ h1 {
 	margin-left: 20px;
 	background: white url(images/cocktail.gif) repeat-x; 
 	text-align: center;
+  float: right;
+	
 }
 	.elixirs a:link {
 	color: #007e7e;
